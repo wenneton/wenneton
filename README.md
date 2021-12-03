@@ -51,6 +51,20 @@ My name is Marcos Wenneton.
   </a>
 </p>
 
+## :computer: Coding Activity
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenneton&layout=compact&theme=dracula"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=wenneton&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dracula" />
+  </a>
+</p>
+
 <!--
 **wenneton/wenneton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
