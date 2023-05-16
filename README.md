@@ -4,10 +4,10 @@
 
 My name is Marcos Wenneton.
 
-- 🔭 I'm currently working as a Data Engineer at Bemol Digital;
-- 🌱 I’m graduated on Computer Engineering and doing a graduate course on Data Science;
+- 🔭 I'm currently working as a Data Engineer at CI&T;
+- 🌱 I’m a Computer Engineer and Data Scientist gradutated on Amazonas State University;
 - 📚 My areas of study are Data Science, Data Engineering and Software Development (Python);
-- 👯 I’m looking to collaborate on Machine and Deep Learning researchs.
+- 👯 I’m looking to collaborate on Machine Learning researchs and on Data Engineering projects.
 
 ## Technologies
 
