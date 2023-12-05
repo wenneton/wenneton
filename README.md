@@ -36,7 +36,7 @@ My name is Marcos Wenneton.
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-64/visual-studio-code-1868941-1583105.png" alt="Visual Studio Code" title="Visual Studio Code" /></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="Jupyter Notebook" title="Jupyter Notebook" /></code>
 <code><img height="32" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/databricks_logo_icon_170295.png" alt="Databricks" title="Databricks" /></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="Airflow" title="Airflow"/></code>
+<code><img height="32" src="https://ih1.redbubble.net/image.2514217471.5676/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg" alt="Airflow" title="Airflow"/></code>
 
 ## Contact me
 <p>
