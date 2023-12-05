@@ -4,7 +4,7 @@
 
 My name is Marcos Wenneton.
 
-- 🔭 I'm currently working as a Data Engineer at CI&T;
+- 🔭 I'm currently working as a Data Engineer at Babbel;
 - 🌱 I’m a Computer Engineer and Data Scientist gradutated on Amazonas State University;
 - 📚 My areas of study are Data Science, Data Engineering and Software Development (Python);
 - 👯 I’m looking to collaborate on Machine Learning researchs and on Data Engineering projects.
@@ -35,8 +35,8 @@ My name is Marcos Wenneton.
 <code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="Github" title="Github"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-64/visual-studio-code-1868941-1583105.png" alt="Visual Studio Code" title="Visual Studio Code" /></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="Jupyter Notebook" title="Jupyter Notebook" /></code>
-<code><img height="32" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/11/databricks-logo.png" alt="Databricks" title="Databricks" /></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="Postman" title="Postman"/></code>
+<code><img height="32" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/databricks_logo_icon_170295.png" alt="Databricks" title="Databricks" /></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="Airflow" title="Airflow"/></code>
 
 ## Contact me
 <p>
